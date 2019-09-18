@@ -9,7 +9,7 @@
  */
 
 #header-container {
-    width: auto;
+    width: 98%;
     height: 125px;
     max-height: 200px;
     padding: 0;
@@ -144,26 +144,6 @@ li a:hover {
 
 #resume-content{
     /*border: 1px solid yellow;*/
-}
-
-#work-experience-header {
-    font-size: 26px;
-    color: white;
-}
-
-.job-header {
-    font-size: 18px;
-    color: white;
-}
-
-#skills-header {
-    font-size: 26px;
-    color: white;
-}
-
-#resume-container ol li {
-    list-style-type: none;
-    color: white;
 }
 
 /*
