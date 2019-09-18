@@ -1,0 +1,38 @@
+.labs-container {
+    position: absolute;
+    border: 1px solid yellow;
+    padding: 0;
+    margin: 0;
+    top: 20%;
+    left: 13%;
+    width: auto;
+    height: auto;
+}
+
+.labs-card {
+    border: 1px solid white;
+    float: left;
+    margin: 40px;
+    padding: 0;
+    width: 320px;
+    height: 315px;
+    color: white;
+    text-align: center;
+}
+
+.labs-card a {
+    position: absolute;
+    margin-top: 150px;
+}
+
+.lab-card a:link {
+    color: lightseagreen;
+}
+
+.labs-card a:visited {
+    color: lawngreen;
+}
+
+.labs-card a:hover{
+    color: red;
+}
