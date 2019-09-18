@@ -15,14 +15,13 @@
     float: left;
     margin: 40px;
     padding: 0;
-    width: 320px;
-    height: 315px;
+    width: 400px;
+    height: 450px;
     color: white;
 }
 
 .lab-links {
     position: relative;
-    top: 135px;
     font-size: 28px;
     text-align: center;
 }
@@ -37,4 +36,20 @@
 
 .labs-card a:hover{
     color: red;
+}
+
+#skills-list {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+#lab1-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+#missing-project-image {
+    width: 300px;
+    height: 300px;
 }
